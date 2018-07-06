@@ -70,7 +70,7 @@
 		<dependency>
 			<groupId>info.bliki.wiki</groupId>
 			<artifactId>bliki-core</artifactId>
-			<version>3.0.18</version>
+			<version>3.0.19</version>
 		</dependency>
 		<dependency>
 			<groupId>org.openimaj</groupId>
